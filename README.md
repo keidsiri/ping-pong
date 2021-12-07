@@ -1,3 +1,3 @@
 # Ping Pong
 
-#### By Kate Kiatsiri
+#### By Kate Kiatsiri and Liz Thomas
