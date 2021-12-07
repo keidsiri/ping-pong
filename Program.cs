@@ -7,9 +7,10 @@ namespace Interface
   {
     public static void Main()
     {
-      Console.WriteLine("Input a number!");
+      Console.WriteLine("Please Enter Number : ");
       string stringNumber = Console.ReadLine();
       int intNumber = int.Parse(stringNumber);
+      Console.WriteLine("--------------------------");
 
       for (int i = 1 ; i <= intNumber ; i++)
       {
