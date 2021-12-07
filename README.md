@@ -1,6 +1,6 @@
 # Ping Pong
 
-#### A function that take input number from user and change the number that divisible by 3 to ping, divisible by 5 to pong and divisible by both nubers to ping-pong otherwise return the numebrs.
+#### A function that take input number from user and change the number that divisible by 3 to ping, divisible by 5 to pong and divisible by both numbers to ping-pong otherwise return that number.
 
 #### By Liz Thomas & Kate Kiatsiri 
 
