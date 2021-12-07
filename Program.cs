@@ -11,7 +11,7 @@ namespace Interface
       string stringNumber = Console.ReadLine();
       int intNumber = int.Parse(stringNumber);
 
-      for (int i =1 ; i <= intNumber ; i++)
+      for (int i = 1 ; i <= intNumber ; i++)
       {
         if ( i % 3 == 0  && i % 5 == 0)
         {
